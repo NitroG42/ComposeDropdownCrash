@@ -2,6 +2,8 @@
 
 ## Reported issue
 
+https://issuetracker.google.com/issues/202172885
+
 ## Context
 
 Here's a custom Spinner implementation :
